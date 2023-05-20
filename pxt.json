@@ -1,0 +1,49 @@
+{
+    "name": "NASCAR Global Racer - v1.0",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.8.22",
+        "tag": "v1.8.22",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/6017af228c87817006b555668c65933bf3cbff4c",
+        "target": "1.12.30",
+        "pxt": "7.4.26",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#1D2B53",
+        "#7E2553",
+        "#008751",
+        "#AB5236",
+        "#5F574F",
+        "#C2C3C7",
+        "#FFF1E8",
+        "#FF004D",
+        "#FFA300",
+        "#FFEC27",
+        "#00E436",
+        "#29ADFF",
+        "#83769C",
+        "#FF77A8",
+        "#FFCCAA"
+    ]
+}
